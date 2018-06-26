@@ -14,7 +14,7 @@ import (
 )
 
 var (
-	ShutdownSignal = syscall.SIGINT
+	ShutdownSignal = syscall.SIGTERM
 	RestartSignal  = syscall.SIGHUP
 )
 
