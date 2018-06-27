@@ -38,3 +38,8 @@ $ curl localhost:8888
 Graceful Restart!
 ```
 変更が反映されていた
+
+# 参考
+- [miyabi](https://github.com/naoina/miyabi)
+- Goならわかるシステムプログラミング | 渋川よしき
+- [Server::Starterから学ぶhot deployの仕組み](https://blog.shibayu36.org/entry/2012/05/07/201556)
